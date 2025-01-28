@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="20mm"
-   height="20mm"
-   viewBox="0 0 20 20"
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
@@ -26,30 +26,48 @@
      inkscape:document-units="mm"
      showguides="true"
      showgrid="true"
-     inkscape:zoom="8"
-     inkscape:cx="37.375"
-     inkscape:cy="40.5625"
-     inkscape:window-width="1245"
-     inkscape:window-height="981"
-     inkscape:window-x="511"
-     inkscape:window-y="76"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.5"
+     inkscape:cx="565"
+     inkscape:cy="357"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
-       id="grid5"
+       id="grid12"
        units="mm"
        originx="0"
        originy="0"
-       spacingx="0.99999997"
-       spacingy="0.99999997"
+       spacingx="0.99999999"
+       spacingy="0.99999999"
        empcolor="#0099e5"
        empopacity="0.30196078"
        color="#0099e5"
        opacity="0.14901961"
        empspacing="5"
        enabled="true"
-       visible="true"
-       dotted="false" />
+       visible="true" />
+    <inkscape:grid
+       type="modular"
+       id="grid13"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="40"
+       spacingy="40"
+       empcolor="#0047cb"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="0"
+       marginx="0"
+       marginy="0"
+       gapx="9.9999999"
+       gapy="9.9999999"
+       enabled="true"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs1">
@@ -139,6 +157,7 @@
        id="path11"
        inkscape:path-effect="#path-effect12"
        inkscape:original-d="M 0,19.999999 9.9999997,3.9999999 19.999999,19.999999 9.9999997,15 Z"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       transform="translate(90.000001,-4.2173882)" />
   </g>
 </svg>
